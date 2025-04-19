@@ -45,11 +45,6 @@ Make sure your `sounds/` folder includes:
 
 ---
 
-## 📸 Demo
-
-> _(Add a screenshot or screen recording here if desired)_
-
----
 
 ## 📄 License
 
